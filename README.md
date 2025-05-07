@@ -1,6 +1,8 @@
 # Weather-Station
 Using esp32 to connect internet, get weather information and display in LCD ePaper 2.9 inch.  
-  
+
+![20250507_182045](https://github.com/user-attachments/assets/751b9127-2a13-4ff9-87b4-c4b4846cd53b)
+
 The project is the combination of 3 subprojects:  
 (1) A project to control ePaper LCD 2.9 inch and LCD Nokia (DisplayModule)  
 (2) A project to control the internet access via Esp32 (Node)  
